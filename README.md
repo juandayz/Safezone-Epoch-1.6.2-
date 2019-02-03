@@ -1,4 +1,7 @@
 # Safezone-Epoch-1.6.2-
+PLEASE DONATE:
+https://github.com/juandayz/Safezone-Epoch-1.6.2-/blob/master/DONATION.md
+
 
  The very old safezone script by infistar... i was using it in 1.0.5.1  and made some changes to use in 1.6.
 
